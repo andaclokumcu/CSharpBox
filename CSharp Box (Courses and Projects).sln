@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market Values (Logical)", "Market Values (Logical)\Market Values (Logical).csproj", "{6563D9B5-D978-40B4-A411-BB52680A1CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Market Values (Logical)", "Market Values (Logical)\Market Values (Logical).csproj", "{6563D9B5-D978-40B4-A411-BB52680A1CC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friend Number (Loop)", "Friend Number (Loop)\Friend Number (Loop).csproj", "{F3425D39-ABA6-49F5-9863-0F4A8119649F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Friend Number (Loop)", "Friend Number (Loop)\Friend Number (Loop).csproj", "{F3425D39-ABA6-49F5-9863-0F4A8119649F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce System", "E-Commerce System\E-Commerce System.csproj", "{64A0C62C-89D0-498D-99EB-B236DAB201E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F3425D39-ABA6-49F5-9863-0F4A8119649F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3425D39-ABA6-49F5-9863-0F4A8119649F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3425D39-ABA6-49F5-9863-0F4A8119649F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A0C62C-89D0-498D-99EB-B236DAB201E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A0C62C-89D0-498D-99EB-B236DAB201E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A0C62C-89D0-498D-99EB-B236DAB201E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A0C62C-89D0-498D-99EB-B236DAB201E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
