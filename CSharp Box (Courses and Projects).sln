@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Market Values (Logical)", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Friend Number (Loop)", "Friend Number (Loop)\Friend Number (Loop).csproj", "{F3425D39-ABA6-49F5-9863-0F4A8119649F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce System", "E-Commerce System\E-Commerce System.csproj", "{64A0C62C-89D0-498D-99EB-B236DAB201E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Commerce System", "E-Commerce System\E-Commerce System.csproj", "{64A0C62C-89D0-498D-99EB-B236DAB201E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student List", "Student List\Student List.csproj", "{0CB55126-99F8-4343-AFC9-21FE99FF44C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student List", "Student List\Student List.csproj", "{0CB55126-99F8-4343-AFC9-21FE99FF44C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gold Values", "Gold Values\Gold Values.csproj", "{EFB651BD-D0D7-460A-A959-67D6F26D1FD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0CB55126-99F8-4343-AFC9-21FE99FF44C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CB55126-99F8-4343-AFC9-21FE99FF44C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CB55126-99F8-4343-AFC9-21FE99FF44C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB651BD-D0D7-460A-A959-67D6F26D1FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB651BD-D0D7-460A-A959-67D6F26D1FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB651BD-D0D7-460A-A959-67D6F26D1FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB651BD-D0D7-460A-A959-67D6F26D1FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
