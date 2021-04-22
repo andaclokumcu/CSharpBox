@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Commerce System", "E-Comm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student List", "Student List\Student List.csproj", "{0CB55126-99F8-4343-AFC9-21FE99FF44C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gold Values", "Gold Values\Gold Values.csproj", "{EFB651BD-D0D7-460A-A959-67D6F26D1FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gold Values", "Gold Values\Gold Values.csproj", "{EFB651BD-D0D7-460A-A959-67D6F26D1FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd and Even Numbers", "Odd and Even Numbers\Odd and Even Numbers.csproj", "{F05D60D8-53DC-471B-A722-87DD07109A5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odd and Even Numbers", "Odd and Even Numbers\Odd and Even Numbers.csproj", "{F05D60D8-53DC-471B-A722-87DD07109A5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rent A Car System", "Rent A Car System\Rent A Car System.csproj", "{50392FAA-3FA2-4237-B9CC-A9FDB2E52AE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F05D60D8-53DC-471B-A722-87DD07109A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F05D60D8-53DC-471B-A722-87DD07109A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F05D60D8-53DC-471B-A722-87DD07109A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50392FAA-3FA2-4237-B9CC-A9FDB2E52AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50392FAA-3FA2-4237-B9CC-A9FDB2E52AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50392FAA-3FA2-4237-B9CC-A9FDB2E52AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50392FAA-3FA2-4237-B9CC-A9FDB2E52AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
