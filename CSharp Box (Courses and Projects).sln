@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odd and Even Numbers", "Odd
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rent A Car System", "Rent A Car System\Rent A Car System.csproj", "{50392FAA-3FA2-4237-B9CC-A9FDB2E52AE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes (Student List and Information)", "Classes (Student List and Information)\Classes (Student List and Information).csproj", "{45DE5446-FD94-47C9-AC70-DD2F5B3995B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes (Student List and Information)", "Classes (Student List and Information)\Classes (Student List and Information).csproj", "{45DE5446-FD94-47C9-AC70-DD2F5B3995B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{D4514246-4F65-4257-AD79-1B49161DE794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{D4514246-4F65-4257-AD79-1B49161DE794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customers (Working with Classes)", "Customers (Working with Classes)\Customers (Working with Classes).csproj", "{EE9D1B0A-158E-4802-A2C4-501BDF28BBB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D4514246-4F65-4257-AD79-1B49161DE794}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4514246-4F65-4257-AD79-1B49161DE794}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4514246-4F65-4257-AD79-1B49161DE794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9D1B0A-158E-4802-A2C4-501BDF28BBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9D1B0A-158E-4802-A2C4-501BDF28BBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9D1B0A-158E-4802-A2C4-501BDF28BBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9D1B0A-158E-4802-A2C4-501BDF28BBB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
