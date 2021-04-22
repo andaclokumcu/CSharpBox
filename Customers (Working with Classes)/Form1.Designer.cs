@@ -166,6 +166,7 @@ namespace Customers__Working_with_Classes_
             this.dgrwCustomers.RowTemplate.Height = 25;
             this.dgrwCustomers.Size = new System.Drawing.Size(800, 150);
             this.dgrwCustomers.TabIndex = 13;
+            
             // 
             // Form1
             // 
