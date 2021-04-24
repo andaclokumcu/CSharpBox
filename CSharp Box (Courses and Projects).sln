@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customers (Working with Classes)", "Customers (Working with Classes)\Customers (Working with Classes).csproj", "{EE9D1B0A-158E-4802-A2C4-501BDF28BBB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinary", "Veterinary\Veterinary.csproj", "{C09A940E-309B-4D79-B8BE-20BC47CB98FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veterinary", "Veterinary\Veterinary.csproj", "{C09A940E-309B-4D79-B8BE-20BC47CB98FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP - Inheritance", "OOP - Inheritance\OOP - Inheritance.csproj", "{55A2AC25-565F-4F9B-A2C9-44B7AB0C724D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{C09A940E-309B-4D79-B8BE-20BC47CB98FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C09A940E-309B-4D79-B8BE-20BC47CB98FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C09A940E-309B-4D79-B8BE-20BC47CB98FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A2AC25-565F-4F9B-A2C9-44B7AB0C724D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A2AC25-565F-4F9B-A2C9-44B7AB0C724D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A2AC25-565F-4F9B-A2C9-44B7AB0C724D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A2AC25-565F-4F9B-A2C9-44B7AB0C724D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

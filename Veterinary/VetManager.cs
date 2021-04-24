@@ -11,9 +11,11 @@ namespace Veterinary
             vets = new List<Vet>()
  
             {
-            new Vet { ID = 1, AnimalName = "Tukaş", PersonalName = "Ali", ProductName="Köpek Maması" },
+            new Vet { ID=1, AnimalName = "Tukaş", PersonalName = "Ali", ProductName="Köpek Maması" },
             new Vet { ID = 2, AnimalName = "Bulut", PersonalName = "Mehmet", ProductName="Kedi Maması" },
             new Vet { ID = 3, AnimalName = "Köpük", PersonalName = "Ahmet", ProductName="Kuş Maması" }
+
+            
             };
         }
 
