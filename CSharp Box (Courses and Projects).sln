@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP - Inheritance", "OOP - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP - Properties", "OOP - Properties\OOP - Properties.csproj", "{148919AB-F96B-4C09-8F60-E078F67E404F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP - Interfaces", "OOP - Interfaces\OOP - Interfaces.csproj", "{C66EB9E3-AAE3-46AA-BBE8-28F60462B859}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{148919AB-F96B-4C09-8F60-E078F67E404F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{148919AB-F96B-4C09-8F60-E078F67E404F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{148919AB-F96B-4C09-8F60-E078F67E404F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66EB9E3-AAE3-46AA-BBE8-28F60462B859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66EB9E3-AAE3-46AA-BBE8-28F60462B859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66EB9E3-AAE3-46AA-BBE8-28F60462B859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66EB9E3-AAE3-46AA-BBE8-28F60462B859}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
