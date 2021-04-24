@@ -8,6 +8,10 @@ namespace Project4.Business
 {
     public class ProductManager
     {
+        public ProductManager(global::Project5.DataAccess.ProductDal productDal)
+        {
+        }
+
         public List<Product> GetAll()
         {
             ProductDal productDal = new ProductDal();
