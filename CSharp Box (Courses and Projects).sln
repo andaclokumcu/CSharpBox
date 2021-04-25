@@ -25,27 +25,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customers (Working with Cla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veterinary", "Veterinary\Veterinary.csproj", "{C09A940E-309B-4D79-B8BE-20BC47CB98FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP - Inheritance", "OOP - Inheritance\OOP - Inheritance.csproj", "{55A2AC25-565F-4F9B-A2C9-44B7AB0C724D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP - Inheritance", "OOP - Inheritance\OOP - Inheritance.csproj", "{55A2AC25-565F-4F9B-A2C9-44B7AB0C724D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP - Properties", "OOP - Properties\OOP - Properties.csproj", "{148919AB-F96B-4C09-8F60-E078F67E404F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP - Properties", "OOP - Properties\OOP - Properties.csproj", "{148919AB-F96B-4C09-8F60-E078F67E404F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP - Interfaces", "OOP - Interfaces\OOP - Interfaces.csproj", "{C66EB9E3-AAE3-46AA-BBE8-28F60462B859}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP - Interfaces", "OOP - Interfaces\OOP - Interfaces.csproj", "{C66EB9E3-AAE3-46AA-BBE8-28F60462B859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4.DataAccess", "Project4.DataAccess\Project4.DataAccess.csproj", "{D2077BDD-49AE-47B7-90FD-C540654B32C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project4.DataAccess", "Project4.DataAccess\Project4.DataAccess.csproj", "{D2077BDD-49AE-47B7-90FD-C540654B32C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4.Business", "Project4.Business\Project4.Business.csproj", "{55D908EC-D831-46DF-B756-28A0B575CF8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project4.Business", "Project4.Business\Project4.Business.csproj", "{55D908EC-D831-46DF-B756-28A0B575CF8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4.ConsoleUI", "Project4.ConsoleUI\Project4.ConsoleUI.csproj", "{7F573BC0-584E-4557-BC1F-55A02C41C1BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project4.ConsoleUI", "Project4.ConsoleUI\Project4.ConsoleUI.csproj", "{7F573BC0-584E-4557-BC1F-55A02C41C1BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4.Entities", "Project4.Entities\Project4.Entities.csproj", "{57EDDBB7-5172-4F2F-90F9-1546723E1F78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project4.Entities", "Project4.Entities\Project4.Entities.csproj", "{57EDDBB7-5172-4F2F-90F9-1546723E1F78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5.DataAccess", "Project5.DataAccess\Project5.DataAccess.csproj", "{040049D2-658C-4E13-B96E-200336CE625A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project5.DataAccess", "Project5.DataAccess\Project5.DataAccess.csproj", "{040049D2-658C-4E13-B96E-200336CE625A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5.Business", "Project5.Business\Project5.Business.csproj", "{65F4C979-342D-4702-85A6-F7E1E522B8AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project5.Business", "Project5.Business\Project5.Business.csproj", "{65F4C979-342D-4702-85A6-F7E1E522B8AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5.ConsoleUI", "Project5.ConsoleUI\Project5.ConsoleUI.csproj", "{0C907EE0-EDBB-41D1-8E41-D1EF1A0D352E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project5.ConsoleUI", "Project5.ConsoleUI\Project5.ConsoleUI.csproj", "{0C907EE0-EDBB-41D1-8E41-D1EF1A0D352E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5.Entities", "Project5.Entities\Project5.Entities.csproj", "{BF3D8EAD-FB95-4EFF-B793-A965E9C78937}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project5.Entities", "Project5.Entities\Project5.Entities.csproj", "{BF3D8EAD-FB95-4EFF-B793-A965E9C78937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphones.DataAccess", "Mphones.DataAccess\Mphones.DataAccess.csproj", "{27A806B8-EC0C-4E46-BB21-CC93193FD47C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphones.Business", "Mphones.Business\Mphones.Business.csproj", "{A8DA8226-84A3-4716-91D4-FCA17216055D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphones.ConsoleUI", "Mphones.ConsoleUI\Mphones.ConsoleUI.csproj", "{C3A1E189-B2AE-4036-BCE4-B54ADBAABF5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphones.Entities", "Mphones.Entities\Mphones.Entities.csproj", "{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +149,22 @@ Global
 		{BF3D8EAD-FB95-4EFF-B793-A965E9C78937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF3D8EAD-FB95-4EFF-B793-A965E9C78937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF3D8EAD-FB95-4EFF-B793-A965E9C78937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A806B8-EC0C-4E46-BB21-CC93193FD47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A806B8-EC0C-4E46-BB21-CC93193FD47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A806B8-EC0C-4E46-BB21-CC93193FD47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A806B8-EC0C-4E46-BB21-CC93193FD47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DA8226-84A3-4716-91D4-FCA17216055D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DA8226-84A3-4716-91D4-FCA17216055D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DA8226-84A3-4716-91D4-FCA17216055D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DA8226-84A3-4716-91D4-FCA17216055D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A1E189-B2AE-4036-BCE4-B54ADBAABF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A1E189-B2AE-4036-BCE4-B54ADBAABF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A1E189-B2AE-4036-BCE4-B54ADBAABF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A1E189-B2AE-4036-BCE4-B54ADBAABF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mphones.Entities\Mphones.Entities.csproj" />
+    <ProjectReference Include="..\Project4.Entities\Project4.Entities.csproj" />
+    <ProjectReference Include="..\Project5.Entities\Project5.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
