@@ -7,6 +7,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Project4.DataAccess\Project4.DataAccess.csproj" />
     <ProjectReference Include="..\Project4.Entities\Project4.Entities.csproj" />
+    <ProjectReference Include="..\Project5.DataAccess\Project5.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

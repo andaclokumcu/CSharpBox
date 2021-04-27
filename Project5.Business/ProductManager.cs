@@ -10,9 +10,9 @@ namespace Project5.Business
 {
     public class ProductManager
     {
-        IProductDal _productDal;
+        DataAccess.IProductDal _productDal;
 
-        public ProductManager(IProductDal productDal)
+        public ProductManager(DataAccess.IProductDal productDal)
         {
             _productDal = productDal;
 

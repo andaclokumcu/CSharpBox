@@ -47,13 +47,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project5.ConsoleUI", "Proje
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project5.Entities", "Project5.Entities\Project5.Entities.csproj", "{BF3D8EAD-FB95-4EFF-B793-A965E9C78937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphones.DataAccess", "Mphones.DataAccess\Mphones.DataAccess.csproj", "{27A806B8-EC0C-4E46-BB21-CC93193FD47C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mphones.DataAccess", "Mphones.DataAccess\Mphones.DataAccess.csproj", "{27A806B8-EC0C-4E46-BB21-CC93193FD47C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphones.Business", "Mphones.Business\Mphones.Business.csproj", "{A8DA8226-84A3-4716-91D4-FCA17216055D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mphones.Business", "Mphones.Business\Mphones.Business.csproj", "{A8DA8226-84A3-4716-91D4-FCA17216055D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphones.ConsoleUI", "Mphones.ConsoleUI\Mphones.ConsoleUI.csproj", "{C3A1E189-B2AE-4036-BCE4-B54ADBAABF5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mphones.ConsoleUI", "Mphones.ConsoleUI\Mphones.ConsoleUI.csproj", "{C3A1E189-B2AE-4036-BCE4-B54ADBAABF5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphones.Entities", "Mphones.Entities\Mphones.Entities.csproj", "{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mphones.Entities", "Mphones.Entities\Mphones.Entities.csproj", "{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer.DataAccess", "Gamer.DataAccess\Gamer.DataAccess.csproj", "{30826345-7663-49B1-BFFB-7B3F698E0D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer.Business", "Gamer.Business\Gamer.Business.csproj", "{3032EC29-8857-4DFC-B424-2465F6A69074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer.ConsoleUI", "Gamer.ConsoleUI\Gamer.ConsoleUI.csproj", "{3D7E45AA-DC38-4149-A36B-A39A9DC483E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer.Entities", "Gamer.Entities\Gamer.Entities.csproj", "{6EBAC4E6-AC85-44A6-88F9-15229B755E17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +173,22 @@ Global
 		{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30826345-7663-49B1-BFFB-7B3F698E0D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30826345-7663-49B1-BFFB-7B3F698E0D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30826345-7663-49B1-BFFB-7B3F698E0D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30826345-7663-49B1-BFFB-7B3F698E0D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3032EC29-8857-4DFC-B424-2465F6A69074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3032EC29-8857-4DFC-B424-2465F6A69074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3032EC29-8857-4DFC-B424-2465F6A69074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3032EC29-8857-4DFC-B424-2465F6A69074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7E45AA-DC38-4149-A36B-A39A9DC483E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7E45AA-DC38-4149-A36B-A39A9DC483E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7E45AA-DC38-4149-A36B-A39A9DC483E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7E45AA-DC38-4149-A36B-A39A9DC483E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBAC4E6-AC85-44A6-88F9-15229B755E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBAC4E6-AC85-44A6-88F9-15229B755E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBAC4E6-AC85-44A6-88F9-15229B755E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBAC4E6-AC85-44A6-88F9-15229B755E17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
