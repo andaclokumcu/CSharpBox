@@ -55,13 +55,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mphones.ConsoleUI", "Mphone
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mphones.Entities", "Mphones.Entities\Mphones.Entities.csproj", "{D1AFE1E4-2844-4B2C-88CC-073F0FC2E167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer.DataAccess", "Gamer.DataAccess\Gamer.DataAccess.csproj", "{30826345-7663-49B1-BFFB-7B3F698E0D08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gamer.DataAccess", "Gamer.DataAccess\Gamer.DataAccess.csproj", "{30826345-7663-49B1-BFFB-7B3F698E0D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer.Business", "Gamer.Business\Gamer.Business.csproj", "{3032EC29-8857-4DFC-B424-2465F6A69074}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gamer.Business", "Gamer.Business\Gamer.Business.csproj", "{3032EC29-8857-4DFC-B424-2465F6A69074}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer.ConsoleUI", "Gamer.ConsoleUI\Gamer.ConsoleUI.csproj", "{3D7E45AA-DC38-4149-A36B-A39A9DC483E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gamer.ConsoleUI", "Gamer.ConsoleUI\Gamer.ConsoleUI.csproj", "{3D7E45AA-DC38-4149-A36B-A39A9DC483E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer.Entities", "Gamer.Entities\Gamer.Entities.csproj", "{6EBAC4E6-AC85-44A6-88F9-15229B755E17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gamer.Entities", "Gamer.Entities\Gamer.Entities.csproj", "{6EBAC4E6-AC85-44A6-88F9-15229B755E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{25F41C3C-2982-4C66-9E70-E96CE2A01D9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{6EBAC4E6-AC85-44A6-88F9-15229B755E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EBAC4E6-AC85-44A6-88F9-15229B755E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EBAC4E6-AC85-44A6-88F9-15229B755E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F41C3C-2982-4C66-9E70-E96CE2A01D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F41C3C-2982-4C66-9E70-E96CE2A01D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F41C3C-2982-4C66-9E70-E96CE2A01D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F41C3C-2982-4C66-9E70-E96CE2A01D9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
