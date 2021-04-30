@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Excep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{555FFFF8-8DDD-42DA-8C57-5112B50A558C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq (Join and DTO)", "Linq (Join and DTO)\Linq (Join and DTO).csproj", "{F48EA2A4-BB94-4A28-8456-4C6B9479D61C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{555FFFF8-8DDD-42DA-8C57-5112B50A558C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{555FFFF8-8DDD-42DA-8C57-5112B50A558C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{555FFFF8-8DDD-42DA-8C57-5112B50A558C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48EA2A4-BB94-4A28-8456-4C6B9479D61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48EA2A4-BB94-4A28-8456-4C6B9479D61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48EA2A4-BB94-4A28-8456-4C6B9479D61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48EA2A4-BB94-4A28-8456-4C6B9479D61C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
