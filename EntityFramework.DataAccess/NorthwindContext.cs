@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EntityFramework.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace EntityFrameworkDemo
+namespace EntityFramework.DataAccess
 {
     public class NorthwindContext:DbContext
     {
@@ -14,6 +15,7 @@ namespace EntityFrameworkDemo
         }
 
         public DbSet<Product> Products { get; set; }
+
 
     }
 }
