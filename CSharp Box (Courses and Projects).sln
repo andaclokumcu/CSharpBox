@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMapping.Entities", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMapping.ConsoleUI", "CustomMapping.ConsoleUI\CustomMapping.ConsoleUI.csproj", "{B3851AE0-D8AA-4F82-A067-C27AE10C8818}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo", "ThreadingDemo\ThreadingDemo.csproj", "{6C55710B-96D6-4423-8221-F7CDC2FDFAC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{B3851AE0-D8AA-4F82-A067-C27AE10C8818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3851AE0-D8AA-4F82-A067-C27AE10C8818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3851AE0-D8AA-4F82-A067-C27AE10C8818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C55710B-96D6-4423-8221-F7CDC2FDFAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C55710B-96D6-4423-8221-F7CDC2FDFAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C55710B-96D6-4423-8221-F7CDC2FDFAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C55710B-96D6-4423-8221-F7CDC2FDFAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
