@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDemo1", "AsyncDemo1\As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDemo1(2)", "AsyncDemo1(2)\AsyncDemo1(2).csproj", "{B09530A1-B91F-4F21-9C91-F8F482E24FEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDemo2", "AsyncDemo2\AsyncDemo2.csproj", "{B3E655FE-2EE8-4461-939D-952EA0997FD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{B09530A1-B91F-4F21-9C91-F8F482E24FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B09530A1-B91F-4F21-9C91-F8F482E24FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B09530A1-B91F-4F21-9C91-F8F482E24FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E655FE-2EE8-4461-939D-952EA0997FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E655FE-2EE8-4461-939D-952EA0997FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E655FE-2EE8-4461-939D-952EA0997FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E655FE-2EE8-4461-939D-952EA0997FD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
